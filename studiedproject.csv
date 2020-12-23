@@ -1,0 +1,8 @@
+﻿Project,Url,Description,Stars,contributors,commits,,,
+airflow,https://github.com/apache/airflow,Apache Airflow,12199,,,,,
+ansible,https://github.com/ansible/ansible,A radically simple IT automation platform,35212,395,34073,100,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications â€” automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/",2019/2/6 18:35
+bitbake,https://github.com/openembedded/bitbake,A generic task execution engine,162,,,,,
+django,https://github.com/django/django,Web framework ,39299,402,24014,10756,The Web framework for perfectionists with deadlines.,2019/2/6 18:35
+scikit-learn,https://github.com/scikit-learn/scikit-learn,Machine learning in Python,33202,413,18007,11199,scikit-learn: machine learning in Python,2019/2/6 17:12
+tornado,https://github.com/tornadoweb/tornado,A web framework and asynchronous networking library,17726,,,,,
+django-rest-framework,https://github.com/encode/django-rest-framework,Web APIs for Django,12958,100,6183,100,Web APIs for Django. âš¡ï¸,43502.77569
